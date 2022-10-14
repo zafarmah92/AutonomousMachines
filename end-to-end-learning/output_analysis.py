@@ -3,7 +3,7 @@
 """
 Created on Wed Dec  6 23:59:39 2017
 
-@author: abdulliaqat
+
 """
 
 #!/usr/bin/env python3
@@ -11,7 +11,7 @@ Created on Wed Dec  6 23:59:39 2017
 """
 Created on Wed Dec  6 23:17:23 2017
 
-@author: abdulliaqat
+
 """
 
 import pandas as pd

@@ -3,7 +3,7 @@
 """
 Created on Wed Nov 29 22:09:40 2017
 
-@author: abdulliaqat
+
 """
 
 import os

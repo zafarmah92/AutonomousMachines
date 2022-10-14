@@ -3,7 +3,7 @@
 """
 Created on Sun Nov 19 18:11:46 2017
 
-@author: abdulliaqat
+
 """
 
 from keras.applications.inception_v3 import InceptionV3, preprocess_input
