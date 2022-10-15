@@ -8,9 +8,9 @@ recurrent layers (LSTM). We have done transfer learning as well as model tuning 
 
 ![EndToEndArchiecture.png](EndToEndArchiecture.png)
 
-### Collaborator 's 
-Abdul Rehman Liaqat 
-Amir Javed
-Manish Mishra
-Raghavendran Tata
+### Collaborator 's <br\>
+Abdul Rehman Liaqat <br\>
+Amir Javed <br\>
+Manish Mishra <br\>
+Raghavendran Tata <br\>
 Zafar Mahmood
